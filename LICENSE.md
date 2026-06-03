@@ -1,4 +1,4 @@
-# 
+# Léger arbitrage trading bot scripts pour Mac OS | Open Source arbitrage trading bot scripts pour PC Windows. Avec gestion de portefeuille et taille de position — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
